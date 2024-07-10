@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pulkitsingh10
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning skills in backend development.
 - 📫 How to reach me ... gmail - singhpulkit79@gmail.com
 
 <!---
